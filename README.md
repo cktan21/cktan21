@@ -77,6 +77,8 @@
   
   ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cktan21&show_icons=true&theme=tokyonight&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cktan21&show_icons=true&theme=tokyonight&layout=compact)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=008000)](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&redirect=true)
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cktan21.visitor-badge&left_color=black&right_color=blue&left_text=Hello%20There) 
 
 [linkedin]: https://www.linkedin.com/in/kevin-tan-513a9b207/
