@@ -16,8 +16,8 @@
 
 #### Backend
 <a href="https://go.dev/"><img align="left" alt="Golang" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=go" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=javascript" /></a>
-<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
+<a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=python" /></a>
 <a href="https://gin-gonic.com/"><img align="left" alt="Gin" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=gin" /></a>
 <a href="https://expressjs.com/"><img align="left" alt="ExpressJS" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=express" /></a>
