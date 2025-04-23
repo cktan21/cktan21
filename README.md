@@ -18,15 +18,15 @@
 <a href="https://go.dev/"><img align="left" alt="Golang" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" /></a>
-<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=python" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" /></a>
 <a href="https://gin-gonic.com/"><img align="left" alt="Gin" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=gin" /></a>
 <a href="https://expressjs.com/"><img align="left" alt="ExpressJS" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=express" /></a>
 <a href="https://hono.dev/"><img align="left" alt="Hono" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=hono" /></a>
 <a href="https://fastapi.tiangolo.com/"><img align="left" alt="FastAPI" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=fastapi" /></a>
-<a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=flask" /></a>
+<a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=flask&theme=dark" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="Node.js" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=node.js" /></a>
-<a href="https://deno.com/"><img align="left" alt="Deno" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=deno" /></a>
-<a href="https://bun.sh/"><img align="left" alt="Bun" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=bun" /></a>
+<a href="https://deno.com/"><img align="left" alt="Deno" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=deno&theme=dark" /></a>
+<a href="https://bun.sh/"><img align="left" alt="Bun" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=bun&theme=dark" /></a>
 <a href="https://www.php.net/"><img align="left" alt="PHP" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=php" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=laravel" /></a>
 
