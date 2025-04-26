@@ -1,5 +1,5 @@
 ## Hi there !! 👋
-### I'm Kevin 
+### I'm <a href="https://www.linkedin.com/in/kevin-tan-513a9b207/">Kevin</a>
 
 ### Languages and Tools:
 #### Frontend
@@ -66,8 +66,6 @@
 <br />
 <br />
 
-
-
 </details>
 
 
@@ -80,9 +78,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=008000)](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&redirect=true)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cktan21.visitor-badge&left_color=black&right_color=blue&left_text=Hello%20There) 
-
-[linkedin]: https://www.linkedin.com/in/kevin-tan-513a9b207/
-
 
 
 <!--
