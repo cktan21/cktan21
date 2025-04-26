@@ -66,14 +66,12 @@
 <br />
 <br />
 
-</details>
 
-
-  ### :zap: GitHub Stats
-  
-<br>
+### ⚡ GitHub Stats ⚡
   
   ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cktan21&show_icons=true&theme=tokyonight&line_height=20)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cktan21&show_icons=true&theme=tokyonight&layout=compact)
+
+### 🎵 What I'm Listening to 🎵
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=008000)](https://spotify-github-profile.kittinanx.com/api/view?uid=3167jzzf6iudxitgspwlzbg66qje&redirect=true)
 
