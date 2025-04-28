@@ -25,8 +25,8 @@
 <a href="https://fastapi.tiangolo.com/"><img align="left" alt="FastAPI" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=fastapi" /></a>
 <a href="https://flask.palletsprojects.com/"><img align="left" alt="Flask" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=flask&theme=dark" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="Node.js" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=node.js" /></a>
-<a href="https://deno.com/"><img align="left" alt="Deno" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=deno&theme=dark" /></a>
-<a href="https://bun.sh/"><img align="left" alt="Bun" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=bun&theme=dark" /></a>
+<a href="https://deno.com/"><img align="left" alt="Deno" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" /></a>
+<a href="https://bun.sh/"><img align="left" alt="Bun" width="30px" src="https://bun.sh/logo.svg" /></a>
 <a href="https://www.php.net/"><img align="left" alt="PHP" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=php" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" width="30px" src="https://simpleskill.icons.workers.dev/svg?i=laravel" /></a>
 
