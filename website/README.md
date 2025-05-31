@@ -75,8 +75,10 @@ bun run preview
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 
-# Using ShadCN
+## Using ShadCN
 
 ```bash
 bunx --bun shadcn-vue@latest add button #the add button here is your component name
 ```
+
+## Using Inspirar UI
