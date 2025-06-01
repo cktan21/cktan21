@@ -82,3 +82,28 @@ bunx --bun shadcn-vue@latest add button #the add button here is your component n
 ```
 
 ## Using Inspirar UI
+```bash
+#Creating your Wesbite
+bun create nuxt website
+
+# Make sure these mf are globally scoped
+npm install -g @tailwindcss/cli
+npm install -g nuxi
+
+# Installing tailwindCSS V4
+bun install tailwindcss @tailwindcss/vite
+
+#adding SHADCN
+bunx --bun nuxi@latest module add shadcn-nuxt
+bun add shadcn-vue@latest
+bunx --bun shadcn-vue@latest init
+
+# Adding Inspira UI 
+bun add -d @inspira-ui/plugins clsx tailwind-merge class-variance-authority tailwindcss-animate
+bun add @vueuse/core motion-v
+bun add motion-v
+```
+
+## Note:
+- If the command ain't work just get rid of the @latest ie "bunx shadcn-vue add "https://inspira-ui.com/r/pattern-background.json""
+- also for some reason your desktop comp keeps blocking bun request just take note
